@@ -40,7 +40,7 @@ java -jar ./build/libs/poc-i18n-0.1.0.jar
 ### Further Reading
 
  * [Building Java Projects with Gradle](https://spring.io/guides/gs/gradle/)
- * [A Beginner’s Guide to Java Internationalization]()https://phraseapp.com/blog/posts/a-beginners-guide-to-java-internationalization/)
+ * [A Beginner’s Guide to Java Internationalization](https://phraseapp.com/blog/posts/a-beginners-guide-to-java-internationalization/)
  * [Handling Plurals](https://docs.oracle.com/javase/tutorial/i18n/format/choiceFormat.html)
  * [MessageFormat and ChoiceFormat](https://docs.oracle.com/javase/8/docs/api/java/text/MessageFormat.html)
  
