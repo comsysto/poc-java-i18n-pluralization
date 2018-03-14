@@ -4,6 +4,25 @@ Proof of Concept: i18n with Java and pluralization compatible to phraseapp.com
 
 &nbsp;
 
+### Proof of Concept Outline
+
+ * We do **not** want `.properties` files for our translations.
+ * We want `.json` files for our translations in form of:
+
+```json
+{
+ "my": {
+   "super": "Something"
+ }
+}
+``` 
+
+ * We want to use [`ResourceBundle`](https://docs.oracle.com/javase/8/docs/api/java/util/ResourceBundle.html) and load JSON translations into it.
+ * We want to use [`MessageFormat`](https://docs.oracle.com/javase/8/docs/api/java/text/MessageFormat.html)
+ * And [`ChoiceFormat`](https://docs.oracle.com/javase/8/docs/api/java/text/ChoiceFormat.html) for **pluralization**. 
+ 
+&nbsp;
+
 ### Build and Run
 
 ```bash
