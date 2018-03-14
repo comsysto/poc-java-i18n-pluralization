@@ -26,11 +26,11 @@ Proof of Concept: i18n with Java and pluralization compatible to phraseapp.com
 ### Build and Run
 
 ```bash
-./gradlw build
+./gradlew build
 java -jar ./build/libs/poc-i18n-0.1.0.jar
 
 # or run directly
-./gradlw run
+./gradlew run
 ```
 
 

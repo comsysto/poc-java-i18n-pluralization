@@ -1,0 +1,4 @@
+{
+  "pluralizationDemo.hello": "Good Day",
+  "pluralizationDemo.cats": "There {count, plural, =0{are} one{is} other{are}} {count} {count, plural, =0{cats} one{cat} other{cats}}"
+}
