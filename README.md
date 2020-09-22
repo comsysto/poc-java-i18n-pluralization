@@ -49,4 +49,4 @@ java -jar ./build/libs/poc-i18n-0.1.0.jar
 
 ### License
 
-[MIT](./LICENSE) © [Bernhard Grünewaldt](https://github.com/clouless)
+[MIT](./LICENSE)
